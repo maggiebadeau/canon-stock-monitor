@@ -1,0 +1,103 @@
+[2026-05-28 16:37:56] [INFO] Canon Stock Monitor started.
+[2026-05-28 16:37:56] [INFO] Product URL: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:37:56] [INFO] Poll interval: 60000ms
+[2026-05-28 16:37:57] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:38:00] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 16:38:00] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 16:39:01] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:39:04] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 16:39:04] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 16:39:38] [INFO] Canon Stock Monitor started.
+[2026-05-28 16:39:38] [INFO] Product URL: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:39:38] [INFO] Poll interval: 60000ms
+[2026-05-28 16:39:38] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:39:41] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 16:39:41] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 16:40:42] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:40:45] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 16:40:45] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 16:41:42] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:41:45] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 16:41:45] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 16:44:32] [INFO] Canon Stock Monitor started.
+[2026-05-28 16:44:32] [INFO] Product URL: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:44:32] [INFO] Poll interval: 60000ms
+[2026-05-28 16:44:32] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:44:43] [INFO] Stock status: IN_STOCK (selector matched: button.action.tocart)
+[2026-05-28 16:44:43] [INFO] Initial stock status: IN_STOCK
+[2026-05-28 16:44:43] [ERROR] Failed to send Discord alert: Request failed with status code 400
+[2026-05-28 16:45:37] [INFO] Canon Stock Monitor started.
+[2026-05-28 16:45:37] [INFO] Product URL: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:45:37] [INFO] Poll interval: 60000ms
+[2026-05-28 16:45:38] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:45:50] [INFO] Stock status: IN_STOCK (selector matched: button.action.tocart)
+[2026-05-28 16:45:51] [INFO] Initial stock status: IN_STOCK
+[2026-05-28 16:45:51] [ERROR] Failed to send Discord alert: Request failed with status code 400
+[2026-05-28 16:46:51] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:47:01] [INFO] Stock status: IN_STOCK (selector matched: button.action.tocart)
+[2026-05-28 16:47:01] [INFO] Stock status unchanged: IN_STOCK
+[2026-05-28 16:47:51] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:48:02] [INFO] Stock status: IN_STOCK (selector matched: button.action.tocart)
+[2026-05-28 16:48:02] [INFO] Stock status unchanged: IN_STOCK
+[2026-05-28 16:48:51] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:49:01] [INFO] Stock status: IN_STOCK (selector matched: button.action.tocart)
+[2026-05-28 16:49:01] [INFO] Stock status unchanged: IN_STOCK
+[2026-05-28 16:49:51] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:50:02] [INFO] Stock status: IN_STOCK (selector matched: button.action.tocart)
+[2026-05-28 16:50:02] [INFO] Stock status unchanged: IN_STOCK
+[2026-05-28 16:50:20] [INFO] Canon Stock Monitor started.
+[2026-05-28 16:50:20] [INFO] Product URL: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:50:20] [INFO] Poll interval: 60000ms
+[2026-05-28 16:50:20] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:50:30] [INFO] Stock status: OUT_OF_STOCK (selector matched: div.stock.unavailable)
+[2026-05-28 16:50:30] [INFO] Initial stock status: OUT_OF_STOCK
+[2026-05-28 16:50:31] [ERROR] Failed to send Discord alert: Request failed with status code 400
+[2026-05-28 16:51:31] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:51:42] [INFO] Stock status: OUT_OF_STOCK (selector matched: div.stock.unavailable)
+[2026-05-28 16:51:42] [INFO] Stock status unchanged: OUT_OF_STOCK
+[2026-05-28 16:59:29] [INFO] Canon Stock Monitor started.
+[2026-05-28 16:59:29] [INFO] Product URL: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:59:29] [INFO] Poll interval: 60000ms
+[2026-05-28 16:59:30] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 16:59:39] [INFO] Stock status: OUT_OF_STOCK (selector matched: div.stock.unavailable)
+[2026-05-28 16:59:39] [INFO] Initial stock status: OUT_OF_STOCK
+[2026-05-28 16:59:39] [INFO] Discord alert sent: OUT_OF_STOCK
+[2026-05-28 17:00:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:00:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:00:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:01:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:01:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:01:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:02:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:02:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:02:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:03:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:03:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:03:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:04:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:04:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:04:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:05:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:05:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:05:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:06:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:06:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:06:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:07:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:07:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:07:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:08:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:08:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:08:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:09:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:09:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:09:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:10:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:10:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:10:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:11:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:11:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:11:48] [WARN] Could not determine stock status — skipping alert.
+[2026-05-28 17:12:39] [INFO] Checking stock at: https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii?color=Black&type=New
+[2026-05-28 17:12:48] [WARN] Stock status: UNKNOWN (could not determine from page content)
+[2026-05-28 17:12:48] [WARN] Could not determine stock status — skipping alert.
